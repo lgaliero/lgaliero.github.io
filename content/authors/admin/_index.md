@@ -1,60 +1,63 @@
 ---
 # Display name
-title: 吳健雄
+title: Lucia Galiero
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lucia
+last_name: Galiero
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎯
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Junior Language Solutions Integrator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Freelancer
+    #url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:luciagaliero99@libero.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/lgaliero
+  #- icon: brands/linkedin
+    #url: https://www.linkedin.com/
+  #- icon: brands/instagram
+    #url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.A. in Translation and Technology
+    institution: University of Bologna
+    date_start: 2022-09-28
+    date_end: 2022-03-18
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.8/4.0
+      Final mark: Graduated with Honours
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA in Interlingual Mediation
+    institution: University of Genoa
+    date_start: 2018-01-01
+    date_end: 2022-03-16
     summary: |
       GPA: 3.8/4.0
+      Final mark: Graduated with Honours
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
